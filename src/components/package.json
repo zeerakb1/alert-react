@@ -1,0 +1,23 @@
+{
+  "name": "alert-react",
+  "version": "1.0.0",
+  "description": "A simple React component that shows brief, important messages like errors or warnings, and lets users close it easily.",
+  "main": "Alert.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeerakb1/alert-react.git"
+  },
+  "author": "Zeerak Babar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeerakb1/alert-react/issues"
+  },
+  "homepage": "https://github.com/zeerakb1/alert-react#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
